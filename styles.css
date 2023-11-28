@@ -493,6 +493,10 @@ footer a {
         padding-top: 10px;
     }
 
+    header h1{
+        padding-top: 25px;
+    }
+
     #logo {
         grid-row: 1/3;
     }
