@@ -580,6 +580,9 @@ footer a {
 
     #plan div {
         grid-template-columns: 1fr 1fr;
+        max-width: 75%;
+        margin: 0 auto;
+        padding-bottom: 25px;
     }
 
     #testimonials div {
@@ -664,6 +667,7 @@ footer a {
     #plan div {
         grid-template-columns: repeat(4, 1fr);
         padding: 0px 50px 50px 50px;
+        max-width: 100%;
     }
 
     #plan section {
